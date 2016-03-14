@@ -3,8 +3,9 @@
 Min Park
 
 ###Identifier fields
-"subjectId" - person ID
-"activityId" - activity ID for person              
+"subjectId"         person ID
+
+"activityId"        activity ID for person              
           
 ###Measurements
 "timeBodyAccMagnitudeMean"       
