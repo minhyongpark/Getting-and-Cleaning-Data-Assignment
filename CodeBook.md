@@ -4,7 +4,6 @@ Min Park
 
 ###Identifier fields
 "subjectId"         person ID
-
 "activityId"        activity ID for person              
           
 ###Measurements
