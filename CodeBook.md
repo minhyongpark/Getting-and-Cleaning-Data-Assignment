@@ -9,13 +9,31 @@ Min Park
 ###Measurements
 "timeBodyAccMagnitudeMean"       
 "timeBodyAccMagnitudeStdDev"      
+
 "timeGravityAccMagnitudeMean"     
 "timeGravityAccMagnitudeStdDev"  
+
 "timeBodyAccJerkMagnitudeMean"    
 "timeBodyAccJerkMagnitudeStdDev"  
+
 "timeBodyGyroMagnitudeMean"      
-"timeBodyGyroMagnitudeStdDev"     "timeBodyGyroJerkMagnitudeMean"   "timeBodyGyroJerkMagnitudeStdDev"
-"freqBodyAccMagnitudeMean"        "freqBodyAccMagnitudeStdDev"      "freqBodyAccJerkMagnitudeMean"   
-"freqBodyAccJerkMagnitudeStdDev"  "freqBodyGyroMagnitudeMean"       "freqBodyGyroMagnitudeStdDev"    
-"freqBodyGyroJerkMagnitudeMean"   "freqBodyGyroJerkMagnitudeStdDev" "activityType.x"                 
-"activityType.y"                  "activityType"        
+"timeBodyGyroMagnitudeStdDev"     
+
+"timeBodyGyroJerkMagnitudeMean"   
+"timeBodyGyroJerkMagnitudeStdDev"
+
+"freqBodyAccMagnitudeMean"        
+"freqBodyAccMagnitudeStdDev"     
+
+"freqBodyAccJerkMagnitudeMean"   
+"freqBodyAccJerkMagnitudeStdDev"  
+
+"freqBodyGyroMagnitudeMean"       
+"freqBodyGyroMagnitudeStdDev"    
+
+"freqBodyGyroJerkMagnitudeMean"   
+"freqBodyGyroJerkMagnitudeStdDev" 
+
+"activityType.x"                 
+"activityType.y"                  
+"activityType"        
