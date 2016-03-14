@@ -1,9 +1,12 @@
-#Getting and Cleaning Data
-##CodeBook for tidyData
+##Getting and Cleaning Data:CodeBook for tidyData
+
+Min Park
 
 ###Identifier fields
-"subjectId" -"activityId" - activity              
+"subjectId" - person ID
+"activityId" - activity ID for person              
           
+###Measurements
 "timeBodyAccMagnitudeMean"       
 "timeBodyAccMagnitudeStdDev"      
 "timeGravityAccMagnitudeMean"     
